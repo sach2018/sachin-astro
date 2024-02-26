@@ -9,7 +9,7 @@ module.exports = {
         sans: ["var(--font-open-sans)", ...defaultTheme.fontFamily.sans],
       },
       colors: {
-        'hover-color': 'orange',
+        'hover-color': '#E9A80A',
       },
     },
   },
