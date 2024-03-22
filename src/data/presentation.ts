@@ -17,7 +17,7 @@ const presentation: Presentation = {
   //profile: "/profile.webp",
   description:
     "Unlock unparallel support services that cater to your every need. Let us redefine how you connect with your clients.",
- /* socials: [
+  socials: [
     {
       label: "YouTube",
       link: "https://youtube.com/@rishabincloud",
@@ -38,7 +38,7 @@ const presentation: Presentation = {
       label: "Bento",
       link: "https://bento.me/rishabincloud",
     },
-  ],*/
+  ],
 };
 
 export default presentation;
