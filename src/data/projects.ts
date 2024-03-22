@@ -1,4 +1,4 @@
-/*export type Project = {
+export type Project = {
   title: string;
   techs: string[];
   link: string;
@@ -25,4 +25,3 @@ const projects: Project[] = [
 ];
 
 export default projects;
-*/
