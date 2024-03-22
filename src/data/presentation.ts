@@ -12,12 +12,12 @@ type Presentation = {
 };
 
 const presentation: Presentation = {
-  mail: "rishabkumar7@gmail.com",
-  title: "Hi, I’m Rishab 👋",
+  //mail: "rishabkumar7@gmail.com",
+  title: "Elevate Your Customer Experience",
   //profile: "/profile.webp",
   description:
-    "I am a *Staff Developer Evangelist at Twilio*, have worked previously as Cloud, DevOps and Solutions Engineer and have been in the tech industry for *6 years*. I am passionate about helping people get into cloud and sharing my learnings in Cloud, DevOps and now Developer Relations.",
-  socials: [
+    "Unlock unparallel support services that cater to your every need. Let us redefine how you connect with your clients.",
+ /* socials: [
     {
       label: "YouTube",
       link: "https://youtube.com/@rishabincloud",
@@ -38,7 +38,7 @@ const presentation: Presentation = {
       label: "Bento",
       link: "https://bento.me/rishabincloud",
     },
-  ],
+  ],*/
 };
 
 export default presentation;
