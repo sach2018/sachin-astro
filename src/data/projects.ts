@@ -7,9 +7,9 @@ export type Project = {
 
 const projects: Project[] = [
   {
-    //title: "Learn to Cloud",
-    //techs: ["ReactJS (Docusaurus)", "Azure", "DevOps"],
-    //link: "https://learntocloud.guide",
+    title: "Learn to Cloud",
+    techs: ["ReactJS (Docusaurus)", "Azure", "DevOps"],
+    link: "https://learntocloud.guide",
   },
   {
     title: "The DevOps Guide",
