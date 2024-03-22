@@ -5,11 +5,11 @@ export type Project = {
   isComingSoon?: boolean;
 };
 
-/*const projects: Project[] = [
+const projects: Project[] = [
   {
-    title: "Learn to Cloud",
-    techs: ["ReactJS (Docusaurus)", "Azure", "DevOps"],
-    link: "https://learntocloud.guide",
+    //title: "Learn to Cloud",
+    //techs: ["ReactJS (Docusaurus)", "Azure", "DevOps"],
+    //link: "https://learntocloud.guide",
   },
   {
     title: "The DevOps Guide",
@@ -22,6 +22,6 @@ export type Project = {
     link: "/",
     isComingSoon: true,
   },
-];*/
+];
 
 export default projects;
