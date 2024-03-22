@@ -18,26 +18,26 @@ const presentation: Presentation = {
   description:
     "Unlock unparallel support services that cater to your every need. Let us redefine how you connect with your clients.",
   socials: [
-    {
+    //{
       //label: "YouTube",
       //link: "https://youtube.com/@rishabincloud",
-    },
-    {
+    //},
+    //{
      // label: "X",
       //link: "https://twitter.com/rishabincloud",
-    },
-    {
+    //},
+    //{
       //label: "LinkedIn",
       //link: "https://linkedin.com/in/rishabkumar7",
-    },
-    {
+    //},
+    //{
       //label: "GitHub",
       //link: "https://github.com/rishabkumar7",
-    },
-    {
+    //},
+    //{
       //label: "Bento",
       //link: "https://bento.me/rishabincloud",
-    },
+    //},
   ],
 };
 
