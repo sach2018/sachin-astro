@@ -19,8 +19,8 @@ const presentation: Presentation = {
     "Unlock unparallel support services that cater to your every need. Let us redefine how you connect with your clients.",
   socials: [
     {
-      label: "YouTube",
-      link: "https://youtube.com/@rishabincloud",
+      //label: "YouTube",
+      //link: "https://youtube.com/@rishabincloud",
     },
     {
       label: "X",
